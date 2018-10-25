@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="favorites">Favorites</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by">Sort By</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="overview">Overview</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="video_thumbnail">Video Thumbnail</string>
+</resources>

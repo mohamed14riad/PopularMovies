@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">300dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="text_size_large">32sp</dimen>
+    <dimen name="elevation_small">4dp</dimen>
+    <dimen name="elevation_medium">6dp</dimen>
+    <dimen name="movie_title_height">48dp</dimen>
+    <dimen name="trailer_width">160dp</dimen>
+    <dimen name="divider_width">2dp</dimen>
+    <dimen name="fab_translation_z">12dp</dimen>
+</resources>
